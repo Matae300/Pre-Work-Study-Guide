@@ -14,8 +14,8 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-N/A
+Matheus Almeida
 
 ## License
 
-Please refer to the LICENSE in the repo.
+MIT Liscense
